@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Vlaaaaaaad/vlaaaaaaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vlad (**he/him**), a "_Professional mistake avoider_", more commonly known as _Consultant_ or _Strategic Advisor_.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Work
+
+I'm focused on getting companies to the high-performing levels. I work on AWS, with Serverless and Containers. I have an intense focus on observability and developer experience, and I spend most of my time lifting people up.
+
+### 📤 Featured content
+
+- My outdated ["_Scaling containers on AWS blog post_"](https://www.vladionescu.me/posts/scaling-containers-in-aws/) which is superseded by [my re:Invent 2020 talk, "_Scaling containers on AWS_", available on YouTube](https://www.youtube.com/watch?v=UhRiLCxYNbo)
+- My ["_Fixing EKS DNS blog post_"](https://www.vladionescu.me/posts/eks-dns/) which shined a light on NodeLocalDNS, making running Kubernetes clusters at scale way easier. Due to the incredible k8s community, most of this was merged in the upstream documentation 💕
+- If you want some glimpse into how much of a golden retriever I am, my ["_Accidentally a hacker blog post_"](https://www.vladionescu.me/posts/how-i-became-a-hacker/) telling the story of how my passion and energy was combined with alcool and led to accidentally hacking GitHub
+
+### 📬 Socials
+
+If you want to stay up to date, follow me [on Twitter at @iamvlaaaaaaad](https://twitter.com/iamvlaaaaaaad/). You can message me on Twitter, or you can send me an email at [totally-not-spam-like-I-pinky-swear@vladionescu.me](totally-not-spam-I-pinky-swear@vladionescu.me).
