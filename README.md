@@ -16,4 +16,4 @@ I'm focused on getting companies to the high-performing levels. I work on AWS, w
 
 ### 📬 Socials
 
-If you want to stay up to date, follow me [on Twitter at @iamvlaaaaaaad](https://twitter.com/iamvlaaaaaaad/). You can message me on Twitter, or you can send me an email at [totally-not-spam-like-I-pinky-swear@vladionescu.me](totally-not-spam-I-pinky-swear@vladionescu.me).
+If you want to stay up to date, follow me [on Twitter at @iamvlaaaaaaad](https://twitter.com/iamvlaaaaaaad/). You can message me on Twitter, or you can send me an email at [totally-not-spam-like-I-pinky-swear@vladionescu.me](mailto:totally-not-spam-I-pinky-swear@vladionescu.me?subject=Hey).
