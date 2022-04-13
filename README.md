@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 I'm Vlad (**he/him**), a "_Professional mistake avoider_", more commonly known as _Consultant_ or _Strategic Advisor_.
 
@@ -12,8 +12,8 @@ Think I can help your company? Feel free to reach out!
 
 ### 📤 Featured content
 
+- My "_Scaling containers on AWS_" blog series: [started in 2020 with a blog post](https://www.vladionescu.me/posts/scaling-containers-in-aws/), continued with a [2021 re:Invent talk available on YouTube](https://www.youtube.com/watch?v=UhRiLCxYNbo), and now updated with [a huge blog post for 2022](https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/)
 - My surprisingly popular [flowchart: "_How should I run containers on AWS_"?](https://www.vladionescu.me/posts/flowchart-how-should-i-run-containers-on-aws-2021/) that tries to compress a bunch of knowledge into an easily understandable way
-- My outdated ["_Scaling containers on AWS_" blog post](https://www.vladionescu.me/posts/scaling-containers-in-aws/) which is superseded by [my re:Invent 2020 talk, "_Scaling containers on AWS_", available on YouTube](https://www.youtube.com/watch?v=UhRiLCxYNbo)
 - My ["_Fixing EKS DNS_" blog post](https://www.vladionescu.me/posts/eks-dns/) shined a light on NodeLocalDNS, making running Kubernetes clusters at scale way easier. Due to the incredible k8s community, most of this was merged in the upstream documentation 💕
 - If you want a glimpse into how much of a golden retriever I am, check out my ["_Accidentally a hacker_" blog post](https://www.vladionescu.me/posts/how-i-became-a-hacker/) which tells the story of how my passion and energy was combined with alcohol and led to accidentally hacking GitHub
 
