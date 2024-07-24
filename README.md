@@ -1,3 +1,3 @@
 ### Hey there 👋
 
-I'm Vlad (**he/him**).
+I'm Vlad (**he/him**) 👻
